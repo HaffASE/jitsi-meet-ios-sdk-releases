@@ -384,7 +384,7 @@
 		</data>
 		<key>Headers/JitsiMeetConferenceOptions.h</key>
 		<data>
-		iW40H+tuEYr6WYMelIaBY/2taIo=
+		aqjz1jSdwjYn0Q5IAWThn2HJ5D0=
 		</data>
 		<key>Headers/JitsiMeetLogger.h</key>
 		<data>
@@ -392,7 +392,7 @@
 		</data>
 		<key>Headers/JitsiMeetSDK-Swift.h</key>
 		<data>
-		GSHrNbnNKaYG2In1IXbXDvKZaYA=
+		nUmEQ68pADtpIXGN3BpDjUNPWBE=
 		</data>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<data>
@@ -404,7 +404,7 @@
 		</data>
 		<key>Headers/JitsiMeetView.h</key>
 		<data>
-		kIqi1/A31Su6X/S0lTgijW9hdTU=
+		y01ar5ngeTUeO+L3BXk7fEwJgtQ=
 		</data>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
 		<data>
@@ -412,31 +412,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pi7OT9OK9rP3ncad5/JWVSoi4Uc=
+		B3Ncr8iculafqa1mnRnCzK/RF88=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VUx7xBF0K7xjLuXl8nOg0dVOLyg=
+		Njr3Ahp9u3noaFF2NJFjV1nj3z4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uj0JmDnR+PdZYKlC5MUTezaoXsw=
+		WmulbGnz2a60tnDVLUZRqq8za80=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jQ3TopG/9VTWr2t9Y+c6YuUgvVc=
+		GYoNxbq5NkUnXJ7l6TCS2SbcIO4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		VUx7xBF0K7xjLuXl8nOg0dVOLyg=
+		Njr3Ahp9u3noaFF2NJFjV1nj3z4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		uj0JmDnR+PdZYKlC5MUTezaoXsw=
+		WmulbGnz2a60tnDVLUZRqq8za80=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		jQ3TopG/9VTWr2t9Y+c6YuUgvVc=
+		GYoNxbq5NkUnXJ7l6TCS2SbcIO4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -600,7 +600,7 @@
 		</data>
 		<key>assets/lang/languages.json</key>
 		<data>
-		lyIg4532T2L+gG6vIWVWAAAzlx4=
+		9sthMS2LD2cCp6uH0zBp+jca67k=
 		</data>
 		<key>assets/lang/main-af.json</key>
 		<data>
@@ -612,7 +612,7 @@
 		</data>
 		<key>assets/lang/main-bg.json</key>
 		<data>
-		ze5SsKk6njRyZ39/g6JndFScjKc=
+		FvY36bt9A+QoNDW3pMqPcyHBh44=
 		</data>
 		<key>assets/lang/main-ca.json</key>
 		<data>
@@ -652,7 +652,7 @@
 		</data>
 		<key>assets/lang/main-fr.json</key>
 		<data>
-		2Kdt5RwJfcjyatnZcR4q8tT4WMk=
+		BfiWOz3sGRq6mVQ3njL/Mxw1aP0=
 		</data>
 		<key>assets/lang/main-frCA.json</key>
 		<data>
@@ -668,7 +668,7 @@
 		</data>
 		<key>assets/lang/main-it.json</key>
 		<data>
-		O+UTmnLyvGWbvnzwdPBspJe/8yw=
+		wPfElye9QcYBSct373kv33s2WjA=
 		</data>
 		<key>assets/lang/main-ja.json</key>
 		<data>
@@ -724,7 +724,7 @@
 		</data>
 		<key>assets/lang/main-tr.json</key>
 		<data>
-		GU8fr3tz2rSfEr9yBoBDpKQ+/dI=
+		wzEsu/NrnmE/RuY7XmmkxC6GhyM=
 		</data>
 		<key>assets/lang/main-vi.json</key>
 		<data>
@@ -764,7 +764,7 @@
 		</data>
 		<key>assets/node_modules/css-tree/package.json</key>
 		<data>
-		i47YosgwNRPSAoOPCXl9n8UqHqM=
+		9D31wRXVQ95011jwLuuEXzMdgs4=
 		</data>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
 		<data>
@@ -792,11 +792,11 @@
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		oOr/KqsbdYccBZuJqStaC3LU0/Q=
+		zAQ2fTVlAgXVsQulyTu+rv++W+A=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		9MvSm8Udn+3M61p1TE7sglz2TEI=
+		XUnc2Kw4VQZn/rh8nL0TGWBBei0=
 		</data>
 		<key>assets/react/features/participants-pane/theme.json</key>
 		<data>
@@ -832,7 +832,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		Bvw1zGoEfieqOJbr4jylZ3kbai0=
+		tl+MvBvwhNDwETDuIREKFvQlOl0=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1266,7 +1266,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pobVHoNpuGgi/MCkVpvWZ8lHwmsbe+Ww5BO/aX4La1c=
+			BUX8eHVAxs16zs1Dv6s0vPwHE5THTnbkScbMNggrWMk=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetLogger.h</key>
@@ -1280,7 +1280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5rqdmbI9MjfByDovERdeLKj7f4l8DxjatOkzEwdlT9Q=
+			sc2W3SLFN090L/vFXKUrbPs0Y2yQOrXbGAQ1ulPqod0=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetSDK.h</key>
@@ -1301,7 +1301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l8PDD3lNu7Z0EtvdrA3GywjRDJDMstgJcYolwBOJbRE=
+			vhkKY9IGz9OIBp0MlkI58MYqya692GX4K9LsuFnwKzc=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetViewDelegate.h</key>
@@ -1315,42 +1315,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fRb4ehpbJ2ie64JOSIsdpYcUjp91UHPTjLqyZgqcuDs=
+			4GrftskzYz47v8mAGuXn2irWsWVcSqeqFb2S72UVGAc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qSP1ut2ouMg5dB1/PNUZXsu878GRbRUfL5mh36m7j9U=
+			ROBC7WbENn/rOEninXB3L7ENpbM8uq3kmu2Mctze6XI=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NpcNP6DmHyPCfyMkRKib055bYsn4VqTWYYlaoMGpRmk=
+			XtNiGcU0iUmxBY23SVRjfIKej/qERPQK8qZB+FBoQZw=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fRb4ehpbJ2ie64JOSIsdpYcUjp91UHPTjLqyZgqcuDs=
+			4GrftskzYz47v8mAGuXn2irWsWVcSqeqFb2S72UVGAc=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qSP1ut2ouMg5dB1/PNUZXsu878GRbRUfL5mh36m7j9U=
+			ROBC7WbENn/rOEninXB3L7ENpbM8uq3kmu2Mctze6XI=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NpcNP6DmHyPCfyMkRKib055bYsn4VqTWYYlaoMGpRmk=
+			XtNiGcU0iUmxBY23SVRjfIKej/qERPQK8qZB+FBoQZw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1637,7 +1637,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4wniIEJ9eLWkF02caPgK1ny0g2J/gWMRztpvXoEj8DE=
+			8yk8mVzRiJbsTR9AOAYY0T5MLIQeOXgLZNcwWt7gSJU=
 			</data>
 		</dict>
 		<key>assets/lang/main-af.json</key>
@@ -1658,7 +1658,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pWINmp/zFwkzTPvrZ3l2XPLrs4Ff8QbGeVVH0BXpSvI=
+			b8OGGRUGVQSVhQF5lotMd0HBaxIlL6snn4FtaUDgcY0=
 			</data>
 		</dict>
 		<key>assets/lang/main-ca.json</key>
@@ -1728,7 +1728,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MuQ0tWG9VKbEdTFNkmunMj3zFAvrHjRoqzyoIyB5Vy8=
+			KTkmTbzQve4pLEla9INCA9LaXkCUfu3uS4ZM9MuG7dc=
 			</data>
 		</dict>
 		<key>assets/lang/main-frCA.json</key>
@@ -1756,7 +1756,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gQp3S3js2+0tyIQobXL/+qZiB1lJdvz4NXHgkojY840=
+			2DkeK1Uh+tG4gsmxNFmDfVOELFtPRUdbXuUaaCPoZLs=
 			</data>
 		</dict>
 		<key>assets/lang/main-ja.json</key>
@@ -1854,7 +1854,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UuuELwurmCTy8WCCpWRaMIPPuh1WS7k3ddj2dtPeSYc=
+			86UHNTLJupPihTw8Es7mXy+mrO09wjlsAN6GP2ZqwOQ=
 			</data>
 		</dict>
 		<key>assets/lang/main-vi.json</key>
@@ -1924,7 +1924,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QAXZyYIS11CEHiXadrkva9/t0OAvxqCMKTdwdOHV4s=
+			f8n+1b33e0EkL118chOU+B20Y+oHkwhHBC5dHXKMuKc=
 			</data>
 		</dict>
 		<key>assets/node_modules/dom-serializer/foreignNames.json</key>
@@ -1973,14 +1973,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsNWz1hAJh6OfusXUGy6UBJIwS3sfVRAjxsnmVdakb4=
+			HopLXlY3n91IWPxJ7Ejhx6fSHbI0703Bf5wv3I/4ZTc=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			od1+TBI0u9lxpFd53e+ZtHO+nh2l5Fhqg0CCSUwTtHo=
+			KP4/cDsF9TW1kNXH/aYExODJ7kFAJx8TjX9jm1vnjGE=
 			</data>
 		</dict>
 		<key>assets/react/features/participants-pane/theme.json</key>
@@ -2043,7 +2043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gD/ORWQa3792/8lNw4b12mfXE35iqYWjTjq/X4kWWqs=
+			ApAHHusstD8c5Ixoxa6VADtsMTTVY7K56hNjhrqhCDQ=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>

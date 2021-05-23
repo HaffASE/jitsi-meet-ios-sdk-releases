@@ -412,7 +412,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B3Ncr8iculafqa1mnRnCzK/RF88=
+		S0qWR4FtmQdwoVGhQu4dfoehZM8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -620,7 +620,7 @@
 		</data>
 		<key>assets/lang/main-de.json</key>
 		<data>
-		UQVfpMPPhB+zAtmWwiBxNOQhJqk=
+		FMdMSh2BvZGoEWUjhaZTSNI+1V4=
 		</data>
 		<key>assets/lang/main-enGB.json</key>
 		<data>
@@ -668,7 +668,7 @@
 		</data>
 		<key>assets/lang/main-it.json</key>
 		<data>
-		wPfElye9QcYBSct373kv33s2WjA=
+		iVHvCn3iom+hhTcobbf5LwH9YYY=
 		</data>
 		<key>assets/lang/main-ja.json</key>
 		<data>
@@ -724,7 +724,7 @@
 		</data>
 		<key>assets/lang/main-tr.json</key>
 		<data>
-		wzEsu/NrnmE/RuY7XmmkxC6GhyM=
+		v5BVdDm3+jzS0tK/UNPL65Exjis=
 		</data>
 		<key>assets/lang/main-vi.json</key>
 		<data>
@@ -740,7 +740,7 @@
 		</data>
 		<key>assets/lang/main.json</key>
 		<data>
-		mQUa+dnv+ZRmC5qsXjVelHY4H3s=
+		5EH6ET0P9VR7ClU8gLP9Iv7Zo90=
 		</data>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
 		<data>
@@ -790,6 +790,10 @@
 		<data>
 		5qfLcRVjBK7wxO7X+UHdykzXlxU=
 		</data>
+		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
+		<data>
+		SDf+TrbSyQv7e7opEpZjnCbUq2M=
+		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
 		zAQ2fTVlAgXVsQulyTu+rv++W+A=
@@ -832,7 +836,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		tl+MvBvwhNDwETDuIREKFvQlOl0=
+		NC/EKZyoiwLJb1D1d3GiqPzM++Q=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1672,7 +1676,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			us6EZ5w1P4FBaT4c+DVB7DRAJkUAAjmhS9I7CMei1vY=
+			yDcCQgM9QvmhJE4xF3PRVJZm3MboUcI7yOnd7gaezaw=
 			</data>
 		</dict>
 		<key>assets/lang/main-enGB.json</key>
@@ -1756,7 +1760,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2DkeK1Uh+tG4gsmxNFmDfVOELFtPRUdbXuUaaCPoZLs=
+			Nvj2AA92NG500yD9Q8wTSdcuzjWAUCnNgX5Uu6AS6k0=
 			</data>
 		</dict>
 		<key>assets/lang/main-ja.json</key>
@@ -1854,7 +1858,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			86UHNTLJupPihTw8Es7mXy+mrO09wjlsAN6GP2ZqwOQ=
+			n8ivTcJ7J78kNsLBL7G9r5LSqudNTP66FuM8zZutQCI=
 			</data>
 		</dict>
 		<key>assets/lang/main-vi.json</key>
@@ -1882,7 +1886,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CQ1KXZWlOEBD0s/juBOdZMldeRkgBd390GDAs22lFIs=
+			USytNTo2jmF5mTWeVbM76IHRYC8HToG267QsobpnM6Q=
 			</data>
 		</dict>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
@@ -1969,6 +1973,13 @@
 			fg3QPPquCWdnFxFy0a6voO5KYB5MnJPWlOtZ4SoFCHY=
 			</data>
 		</dict>
+		<key>assets/node_modules/react-native-paper/src/assets/back-chevron.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0XyRXX/OQk8BhMKoVfzclsIS+c9iPXYGD9moJBqVVDo=
+			</data>
+		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<dict>
 			<key>hash2</key>
@@ -2043,7 +2054,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ApAHHusstD8c5Ixoxa6VADtsMTTVY7K56hNjhrqhCDQ=
+			EJ6Wmvuw3fK4dzAfJ6vt+qhz3HD9hZyNSkuajCYjRQc=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
